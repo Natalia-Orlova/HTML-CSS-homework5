@@ -13,4 +13,4 @@
 
 4. Расставить элементы в соответствии с макетом.
 
-№ Результат [здесь] (https://natalia-orlova.github.io/HTML-CSS-homework5/)
+# Результат [здесь](https://natalia-orlova.github.io/HTML-CSS-homework5/)
