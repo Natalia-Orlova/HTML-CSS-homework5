@@ -1,4 +1,4 @@
-# HTML-CSS-homework5
+# Задание
 
 Мы продолжаем работать с проектом из прошлого урока https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=186%3A47
 
@@ -12,3 +12,5 @@
 3. Добавить стили для всего контента сайта.
 
 4. Расставить элементы в соответствии с макетом.
+
+№ Результат [здесь] (https://natalia-orlova.github.io/HTML-CSS-homework5/)
